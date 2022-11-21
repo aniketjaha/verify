@@ -1,0 +1,27 @@
+body{
+background-color: violet;    
+}
+.one{
+    background-color: white;
+    padding-bottom: 54;
+    height: 400px;
+    width: 250px;
+    border: solid white 1px;
+    border-radius: 6px;
+    position:fixed;
+}
+#full{
+    display: flex;
+    justify-content: center;
+    margin-bottom:10%;
+    margin-top: 50px;
+
+}
+#ul{
+    display: flex;
+    justify-content: center;
+}
+#ul{
+overflow: hidden;
+
+}
